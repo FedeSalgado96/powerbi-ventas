@@ -18,4 +18,4 @@ Top 5 productos más vendidos
 
 Identificar tendencias de ventas y productos de mayor rendimiento para apoyar la toma de decisiones.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
