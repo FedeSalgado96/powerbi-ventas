@@ -1,4 +1,4 @@
-Dashboard de Ventas Retail – Power BI
+Dashboard de Ventas – Power BI
 
 Este proyecto consiste en el desarrollo de un dashboard interactivo para el análisis de ventas.
 
